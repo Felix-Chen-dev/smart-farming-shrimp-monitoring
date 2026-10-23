@@ -83,3 +83,17 @@ The research prototype integrates image input, shrimp detection, reference calib
 Source code, trained models, model weights, annotations, and research datasets are not publicly distributed.
 
 This repository presents publicly shareable research methodology, figures, and experimental results only.
+
+## Mobile Application Screenshots
+
+### Home Screen
+![Home Screen](docs/app_screenshots/app_01_home_screen.png)
+
+### Image Loaded
+![Image Loaded](docs/app_screenshots/app_02_image_loaded.png)
+
+### Detection Results
+![Detection Results](docs/app_screenshots/app_03_detection_results.png)
+
+### Measurement Results
+![Measurement Results](docs/app_screenshots/app_04_measurement_results.png)
