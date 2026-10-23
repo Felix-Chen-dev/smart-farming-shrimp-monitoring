@@ -54,7 +54,6 @@ Average shrimp weight is estimated using image-level features derived from detec
 
 Evaluation was performed using 26 real-farm weight images.
 
-![GBR Weight Evaluation](docs/results/gbr_weight_evaluation.png)
 
 ## Research Figures
 
